@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error in calculating average salary. The `bug.sql` file contains the erroneous query using `AND` in the `WHERE` clause.  This results in an incorrect, biased average.  `bugSolution.sql` provides corrected versions, showing how to achieve an unbiased average salary calculation,  offering several options for different scenarios.
